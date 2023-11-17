@@ -9,7 +9,7 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Cocoa allows users to run `CosmoLike <https://github.com/CosmoLike>` routines inside the Cobaya framework. 
+Cocoa allows users to run `CosmoLike <https://github.com/CosmoLike>`_ routines inside the Cobaya framework. 
 CosmoLike can analyze data primarily from the Dark Energy Survey and simulate 
 future multi-probe analyses for LSST and Roman Space Telescope. Besides 
 integrating Cobaya and CosmoLike, Cocoa introduces shell scripts and readme 
