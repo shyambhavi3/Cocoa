@@ -5,6 +5,7 @@ Contents
    overview
    installationConda
    installationCobayaBase
+   runningCobaya
    usage
    api
 
