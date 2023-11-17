@@ -1,3 +1,12 @@
+Contents
+--------
+
+.. toctree::
+   :numbered:
+   overview
+   usage
+   api
+
 Overview of the Cobaya-CosmoLike Joint Architecture (Cocoa)
 ===================================
 
@@ -21,10 +30,3 @@ and `CosmoLike <https://github.com/CosmoLike/>`_ components.
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
