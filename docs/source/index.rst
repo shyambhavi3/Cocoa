@@ -3,6 +3,7 @@ Contents
 
 .. toctree::
    overview
+   installationConda
    usage
    api
 
