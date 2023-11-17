@@ -1,14 +1,12 @@
 Contents
---------
+===================================
 
 .. toctree::
-   :numbered:
-   overview
    usage
    api
 
 Overview of the Cobaya-CosmoLike Joint Architecture (Cocoa)
-===================================
+-----------------------------------------------------------
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
