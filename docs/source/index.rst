@@ -6,6 +6,7 @@ Contents
    installationConda
    installationCobayaBase
    runningCobaya
+   runningCosmoLike
    usage
    api
 
