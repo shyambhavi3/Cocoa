@@ -7,8 +7,6 @@ Contents
    installationCobayaBase
    runningCobaya
    runningCosmoLike
-   usage
-   api
 
 
 
