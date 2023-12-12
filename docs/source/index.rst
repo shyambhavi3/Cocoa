@@ -20,6 +20,7 @@ Contents
    boltzmannCosmoLikeCompile
    warningWeakLensing
    manualBlockingCosmolike
+   fineTunningCAMB
 
 
 
