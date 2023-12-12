@@ -21,6 +21,7 @@ Contents
    warningWeakLensing
    manualBlockingCosmolike
    fineTunningCAMB
+   installationCocoaRequiredPackages
 
 
 
