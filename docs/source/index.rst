@@ -7,6 +7,8 @@ Contents
    installationCobayaBase
    runningCobaya
    runningCosmoLike
+   Appendix
+      credits
 
 
 
