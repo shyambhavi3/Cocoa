@@ -7,7 +7,7 @@ Contents
    installationCobayaBase
    runningCobaya
    runningCosmoLike
-   Appendix
+   :caption: Appendix
       credits
 
 
