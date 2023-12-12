@@ -16,6 +16,7 @@ Contents
    credits
    whovian-cocoa
    minicondaInstallation
+   boltzmannCosmoLikeCompile
 
 
 
