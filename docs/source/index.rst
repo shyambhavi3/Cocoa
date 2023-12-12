@@ -8,7 +8,7 @@ Contents
    runningCobaya
    runningCosmoLike
    :caption: Appendix
-      credits
+   credits
 
 
 
