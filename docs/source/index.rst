@@ -15,6 +15,7 @@ Contents
 
    credits
    whovian-cocoa
+   minicondaInstallation
 
 
 
