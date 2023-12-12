@@ -2,12 +2,14 @@ Contents
 ===================================
 
 .. toctree::
+   :maxdepth: 2
+
    overview
    installationConda
    installationCobayaBase
    runningCobaya
-   runningCosmoLike
    :caption: Appendix
+
    credits
 
 
