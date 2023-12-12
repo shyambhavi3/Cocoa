@@ -17,6 +17,7 @@ Contents
    whovian-cocoa
    minicondaInstallation
    boltzmannCosmoLikeCompile
+   warningWeakLensing
 
 
 
