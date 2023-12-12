@@ -22,6 +22,7 @@ Contents
    manualBlockingCosmolike
    fineTunningCAMB
    installationCocoaRequiredPackages
+   setupCondaEnvironment
 
 
 
