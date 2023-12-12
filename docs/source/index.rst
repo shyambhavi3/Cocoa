@@ -8,6 +8,7 @@ Contents
    installationConda
    installationCobayaBase
    runningCobaya
+   runningCosmoLike
 
 .. toctree::
    :maxdepth: 2
