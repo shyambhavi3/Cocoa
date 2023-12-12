@@ -14,6 +14,7 @@ Contents
    :caption: Appendix
 
    credits
+   whovian-cocoa
 
 
 
